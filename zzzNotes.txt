@@ -1,0 +1,12 @@
+
+TODO : 
+
+# entity framework - ef core - migrasyon almak icin lazim - database modelini migrasyona ceviriyo 
+
+boynuzlu at 
+
+
+model file create ! 
+
+
+dotnet ef
